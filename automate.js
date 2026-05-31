@@ -4,7 +4,11 @@ const http = require("http");
 const endpoints = [
   {
     email: "sundusadan15@gmail.com",
-    url: "http://localhost:3000/getAll"
+    url: "https://sundus-beauty-store.onrender.com/getAll"
+  },
+  {
+    email: "havva@email.com",
+    url: "https://evastoreproject.onrender.com/getAll"
   },
   {
     email: "zineb@email.com",
